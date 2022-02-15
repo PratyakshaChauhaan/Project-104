@@ -1,0 +1,19 @@
+body
+{
+background-color: hotpink;
+}
+.heading
+{
+    width: 80%;
+    font-size: 22px ;
+}
+.name_of_objects, #object_name, #object_accuracy
+{
+    color: white;
+}
+#camera
+{
+    border: 2px dashed yellow;
+    width: 350px;
+    height: 300px;
+}
